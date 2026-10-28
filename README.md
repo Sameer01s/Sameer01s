@@ -13,8 +13,8 @@
 ---
 
 ### 📌 Featured Projects
-- **Zomato Data Analysis** - Coming Soon...
-- **Sales Dashboard (Power BI)** - Coming Soon...
+- **Zomato Data Analysis** - SQL,Python,Powerbi,Excel,Tableau
+- **HR Analytics Attrition Analysis** -  SQL,Python,Powerbi,Excel,Tableau
 
 ### 📈 GitHub Stats
 - Learning in public - Daily commits
