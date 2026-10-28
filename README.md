@@ -4,7 +4,7 @@
 
 - 🔭 Intern @ **AI Variant** (9 months) - Built data analysis & ML projects
 - 📊 Project: **Zomato Restaurant Analysis** - Analyzed 9,500+ restaurants, built Power BI dashboard
-- 🛠️ Skills: `SQL` `Python (Pandas, NumPy)` `Excel (Advanced)` `Power BI` `Tableau` `R` 
+- 🛠️ Skills: `SQL` `Python (Pandas, NumPy)` `Excel (Advanced)` `Power BI` `Tableau` `R` `Statistics`
 - 🎓 B.Tech ECE 2026, JNTU Hyderabad
 - 📫 **Email:** sameermohammad02494@gmail.com
 - 💼 **LinkedIn:** [sameer-mohammad-754284361](https://www.linkedin.com/in/sameer-mohammad-754284361/)
