@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Mohammad Sameer Baba 👋 | Data Analyst
 
-<!--
-**Sameer01s/Sameer01s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Fresher Data Analyst | SQL, Python, Excel, Power BI | B.Tech ECE @ JNTUH '26
 
-Here are some ideas to get you started:
+- 🔭 Intern @ **AI Variant** (9 months) - Built data analysis & ML projects
+- 📊 Project: **Zomato Restaurant Analysis** - Analyzed 9,500+ restaurants, built Power BI dashboard
+- 🛠️ Skills: `SQL` `Python (Pandas, NumPy)` `Excel (Advanced)` `Power BI` `Tableau` `R` 
+- 🎓 B.Tech ECE 2026, JNTU Hyderabad
+- 📫 **Email:** sameermohammad02494@gmail.com
+- 💼 **LinkedIn:** [sameer-mohammad-754284361](https://www.linkedin.com/in/sameer-mohammad-754284361/)
+- 📍 Hyderabad, India | Open to: Data Analyst / Junior Data Analyst Roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Projects
+- **Zomato Data Analysis** - Coming Soon...
+- **Sales Dashboard (Power BI)** - Coming Soon...
+
+### 📈 GitHub Stats
+- Learning in public - Daily commits
+
+---
+⭐ From Hyderabad, Telangana - Passionate about turning data into insights
