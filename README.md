@@ -2,7 +2,7 @@
 
 > Fresher Data Analyst | SQL, Python, Excel, Power BI | B.Tech ECE @ JNTUH '26
 
-- 🔭 Intern @ **AI Variant** (9 months) - Built data analysis & ML projects
+- 🔭 Intern @ **AI Variant** (9 months) - Built data analysis
 - 📊 Project: **Zomato Restaurant Analysis** - Analyzed 9,500+ restaurants, built Power BI dashboard
 - 🛠️ Skills: `SQL` `Python (Pandas, NumPy)` `Excel (Advanced)` `Power BI` `Tableau` `R` `Statistics`
 - 🎓 B.Tech ECE 2026, JNTU Hyderabad
